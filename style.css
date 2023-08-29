@@ -1,0 +1,27 @@
+* , body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.colums-merek {
+    text-decoration: none;
+    font-weight: 500;
+    color: black;
+    border-radius: 6px;
+}
+
+footer a {
+    color: wheat;
+}
+
+footer a:hover {
+    /* color: brown; */
+    text-decoration: underline;
+    color: black;
+}
